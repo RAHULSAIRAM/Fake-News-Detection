@@ -12,4 +12,4 @@ APPROACH:
 3)After performing Natural Language Processing on the tweet they are labelled accordingly(Fake,Real)<br/>
 4)Later the fake accounts are listed out to either twitter or corresponding authorities to block the accounts.<br/>
 
-To get an overview on this topic have a quick glance on <a href="https://github.com/RAHULSAIRAM/Fake-News-Detection/blob/master/Fake%20News%20Detection.pptx.">"PPT"</a>
+To get an overview on this topic have a quick glance on PPT
