@@ -10,6 +10,6 @@ APPROACH:
 1)First we have to get the access to twitter using Devoloper's API key.<br/>
 2)Tweets will be extracted from twitter and runned through the proposed algorithms.<br/>
 3)After performing Natural Language Processing on the tweet they are labelled accordingly(Fake,Real)<br/>
-4)Later the fake accounts are listed out to either twitter or corresponding authorities to block the accounts.<br/>
+4)Later the fake accounts are listed out to either twitter or concern authorities to block the accounts.<br/>
 
 To get an overview on this topic have a quick glance on PPT
