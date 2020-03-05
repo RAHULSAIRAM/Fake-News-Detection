@@ -7,7 +7,7 @@ It is being misused for spreading fake news and messages that can lead to commun
 
 APPROACH:
 
-1)First we have to get the access to twitter using Devoloper's API key.
-2)Tweets will be extracted from twitter and runned through the proposed algorithms.
-3)After performing Natural Language Processing on the tweet they are labelled accordingly(Fake,Real)
-4)Later the fake accounts are listed out to either twitter or corresponding authorities to block the accounts.
+1)First we have to get the access to twitter using Devoloper's API key.<br/>
+2)Tweets will be extracted from twitter and runned through the proposed algorithms.<br/>
+3)After performing Natural Language Processing on the tweet they are labelled accordingly(Fake,Real)<br/>
+4)Later the fake accounts are listed out to either twitter or corresponding authorities to block the accounts.<br/>
